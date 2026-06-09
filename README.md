@@ -17,3 +17,6 @@ Property managers face challenges with asset tracking, tenant communication, and
 - Transparent tenant communication
 - Audit‑ready compliance
 - Reduced maintenance costs
+
+## Project Artifacts
+Full Report (PDF):https://github.com/krithikaamadhumitha/PropertyManagement/blob/main/Property%20Management.pdf
